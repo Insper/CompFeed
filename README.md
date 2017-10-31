@@ -28,3 +28,7 @@ Sites de fabricantes as vezes são bons pontos de partida (tirando a propaganda 
 - [Mentor Graphics](https://www.mentor.com/embedded-software/)
 - [Atmel](http://www.atmel.com/)
 - [ST](http://www.st.com/content/st_com/en.html)
+
+## Computação em geral
+
+- [Computerphile](https://www.youtube.com/user/Computerphile)
