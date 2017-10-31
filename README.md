@@ -3,6 +3,8 @@ Repositório de referências para engenharia da computação
 
 ## Cloud Computing
 
+- [Ubuntu] (https://tutorials.ubuntu.com/)
+    - Não precisa de apresentações.
 - [Openstack] (https://www.openstack.org/videos/)
     - Suite de apps para a implantação de uma Private Cloud.
 - [Juju] (https://jujucharms.com/community/blog)
